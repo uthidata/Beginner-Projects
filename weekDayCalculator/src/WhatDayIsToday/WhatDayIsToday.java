@@ -23,3 +23,4 @@ public class WhatDayIsToday {
 		});	
 	}
 }
+//doing a minor change and test the commit to github thing
